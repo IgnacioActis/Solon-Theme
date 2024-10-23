@@ -1,0 +1,29 @@
+msgid "plugins.themes.solonTheme.name"
+msgstr "Tema Solon"
+
+msgid "plugins.themes.solonTheme.description"
+msgstr "Un tema personalizado para OJS 3.4"
+
+msgid "plugins.themes.solonTheme.option.headerHeight.label"
+msgstr "Altura del Header"
+
+msgid "plugins.themes.solonTheme.option.headerHeight.description"
+msgstr "Establece la altura del header en píxeles u otras unidades CSS."
+
+msgid "plugins.themes.solonTheme.option.stickyHeader.label"
+msgstr "Header Fijo"
+
+msgid "plugins.themes.solonTheme.option.stickyHeader.description"
+msgstr "Habilitar o deshabilitar el header fijo."
+
+msgid "plugins.themes.solonTheme.option.stickyHeader.sticky"
+msgstr "Fijo"
+
+msgid "plugins.themes.solonTheme.option.stickyHeader.static"
+msgstr "Estático"
+
+msgid "plugins.themes.solonTheme.settings"
+msgstr "Configuraciones del Tema Solon"
+
+msgid "plugins.themes.solonTheme.settings.description"
+msgstr "Aquí puedes agregar configuraciones personalizadas para el Tema Solon."
